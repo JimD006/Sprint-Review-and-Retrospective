@@ -1,3 +1,8 @@
 - How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Having a face-to-face meeting is the best way to interpret the requirements that the user wants in a program or project. This allows you to create user stories that outline what is needed, what the program will do, and how it will look.
+
 - How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+With a clear understanding of the Agile framework, including the roles of stakeholders, product owner, Scrum master, development team, and tester, I believe I have a solid foundation of how the process works from the top down. The approach varies depending on your role. The requirements of the project are the most important aspect, starting from what the stakeholder expects, which you can then implement through various processes. These processes include sprints, burndown boards (Kanban method), and effective team communication. I plan to incorporate these practices into my future development work now that I have a good understanding of them.
+
 - What does it mean to be a good team member in software development?
+Teamwork is always important in every facet of life, and in software development, it is essential. From communication with team members on the development team to the Scrum master being a good leader and the product owner ensuring that requirements are met through effective communication, everyone must communicate efficiently and ensure that impediments are overcome. This is only achievable with a good team that interacts with each other effectively.
